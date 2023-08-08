@@ -5,27 +5,6 @@
 * [TypeGoose](https://typegoose.github.io/typegoose/)
 
 
-### Who is this tutorial for?
-* Those familiar with NodeJs
-* Those wanting to learn GraphQL
-* Those wanting to learn TypeScript
-
-### I don't know GraphQL, should I watch this video?
-* TypeGraphQL is to GraphQL what TypeScript is to JavaScript
-* You might get a bit confused, the syntax used is weird
-* You should get a basic understanding of GraphQL first
-* I'll do a walk-through and explain the code first
-
-### Why TypeGraphQL?
-TypeGraphQL reduced boilerplate. Without it, you have to update schema, data models, resolvers & type definitions. With TypeGraphQL, you only need to update resolvers and data models.
-
-### WTF is an decorator?
-A Decorator is a special kind of declaration that can be attached to a class declaration, method, accessor, property, or parameter. Decorators use the form @expression, where expression must evaluate to a function that will be called at runtime with information about the decorated declaration.
-
-Reference: https://www.typescriptlang.org/docs/handbook/decorators.html#accessor-decorators
-
-
-
 ---
 
 ## Queries & mutations
